@@ -1,6 +1,7 @@
 ## 0xn00b-foundry-erc20
 
-*This README is largely copied from Cyfrin Solidity and adjusted.*
+
+*This README is largely copied from Cyfrin Solidity and adjusted.
 
 # Foundry ERC20
 
